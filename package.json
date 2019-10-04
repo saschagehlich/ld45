@@ -1,0 +1,29 @@
+{
+  "name": "ld45",
+  "version": "1.0.0",
+  "description": "Ludum Dare 45 Entry",
+  "main": "index.js",
+  "author": {
+    "name": "Sascha Gehlich",
+    "email": "hello@sash.wtf",
+    "url": "https://sash.wtf"
+  },
+  "scripts": {
+    "build": "parcel build src/index.html -d dist/",
+    "watch": "parcel serve src/index.html -d dist/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/lodash": "^4.14.141",
+    "@types/stats.js": "^0.17.0",
+    "core-decorators": "^0.20.0",
+    "lodash": "^4.17.15",
+    "parcel-bundler": "^1.12.3",
+    "pixi.js": "5",
+    "stats.js": "^0.17.0"
+  },
+  "devDependencies": {
+    "sass": "^1.23.0",
+    "typescript": "^3.6.3"
+  }
+}
