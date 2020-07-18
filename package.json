@@ -17,7 +17,7 @@
     "@types/lodash": "^4.14.141",
     "@types/stats.js": "^0.17.0",
     "core-decorators": "^0.20.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "parcel-bundler": "^1.12.3",
     "pixi.js": "5",
     "stats.js": "^0.17.0"
